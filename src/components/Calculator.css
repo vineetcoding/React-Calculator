@@ -19,11 +19,12 @@ body{
     height: 8vh;
     font-size: xx-large;
     margin: 4%;
+    padding: 2px;
     background-color: rgb(197, 195, 195);
     color: black;
     border-radius: 10px;
     border: none;
-    text-align: end;
+    text-align: right;
 
 }
 .btn{
