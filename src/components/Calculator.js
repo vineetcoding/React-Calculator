@@ -18,7 +18,8 @@ export default function Calculator() {
         setResult(eval(result));
     }
     function add(){
-        console.log(`${result}=""`)
+        console.log()
+        
         // setResult(result.value)
     }
 
