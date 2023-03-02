@@ -44,7 +44,7 @@ export default function Calculator() {
      <button className='btn' onClick={handleClick}>2</button>
      <button className='btn' onClick={handleClick}>3</button>
      <button className='btn' onClick={handleClick}>+</button>
-     <button className='btn' onClick={add}>Back</button>
+     <button className='btn' onClick={add}>Clear</button>
      <button className='btn' onClick={handleClick}>0</button>
      <button className='btn' onClick={handleClick}>.</button>
      <button className='btn' onClick={Eval}>=</button>
