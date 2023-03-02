@@ -48,6 +48,7 @@ export default function Calculator() {
      <button className='btn' onClick={handleClick}>0</button>
      <button className='btn' onClick={handleClick}>.</button>
      <button className='btn' onClick={Eval}>=</button>
+     {/* <button></button> */}
     </div>
   )
 }
